@@ -2,10 +2,11 @@
 
 The objective of this project is to familiarize myself with audio processing. Unfortunately there is no audio visual demo, just a gif:
 
-<img align="center" src="readme assets/demo.gif" alt="Demo gif"></img>
+<p align="center">
+	<img align="center" src="readme assets/demo.gif" alt="Demo gif"></img>
+</p>
 
-<div align="center"><b>Figure 1 - Audio processing Demo</b></div>
-
+<p align="center"><b>Figure 1 - Audio processing Demo</b></p>
 
 
 ## Development
